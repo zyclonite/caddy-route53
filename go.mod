@@ -56,4 +56,4 @@ require (
 	google.golang.org/protobuf v1.36.6 // indirect
 )
 
-replace github.com/libdns/route53 => github.com/zyclonite/route53 v1.5.3
+replace github.com/libdns/route53 => github.com/zyclonite/route53 v1.5.4
